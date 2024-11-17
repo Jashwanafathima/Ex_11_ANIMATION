@@ -1,6 +1,13 @@
 # Ex.No: 11 Develop a application to add animations to ImageView,Move,blink,fade,clockwise,zoom,slide operations are perform in android studio.
+## PROGRAM:
 
+Program to display animation operation
 
+Developed by: JASHWANA FATHIMA S
+
+Registeration Number : 212222040059
+
+Date : 28.10.2024
 ## AIM:
 
 To develop a application to add animation to imageview,move,blink,fade,clockwise,zoom,slide operation using Android Studio.
@@ -17,13 +24,6 @@ Android Studio(Latest Version)
 4.Implement the animation logic in MainActivity.java by loading and applying the animations to the ImageView.
 5.Link buttons to their respective animation methods using the onClick attribute.
 6.Run the app to verify the animations.
-
-## PROGRAM:
-```
-Program to display animation operation”.
-Developed by: JASHWANA FATHIMA S
-Registeration Number : 212222040059
-```
 
 ## OUTPUT
 ## In activity_main.xml
